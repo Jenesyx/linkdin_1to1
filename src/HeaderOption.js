@@ -1,6 +1,6 @@
 import React from 'react'
 import './headerOption.css'
-import { Avatar } from '@material-ui/core'
+import { Avatar } from "@material-ui/core"
 
 function HeaderOption({avatar, Icon, title}) {
   return (
@@ -13,3 +13,4 @@ function HeaderOption({avatar, Icon, title}) {
 }
 
 export default HeaderOption
+

@@ -26,7 +26,7 @@ function Header() {
         <HeaderOption Icon={BusinessCenterIcon} title='Jobs'/>
         <HeaderOption Icon={ChatIcon} title='Meesaging'/>
         <HeaderOption Icon={NotificationsIcon} title='Notification'/>
-        <HeaderOption avatar='https://media.discordapp.net/attachments/930134181911085056/1021021511806623744/SomeOntheWay_a_man_named_itsxdevil_fullbody_ultra_detailed_dark_81d0fad7-6137-41a0-a878-56ca4679e7ca.png?width=600&height=600'/>
+        <HeaderOption avatar='https://media.discordapp.net/attachments/930134181911085056/1021021511806623744/SomeOntheWay_a_man_named_itsxdevil_fullbody_ultra_detailed_dark_81d0fad7-6137-41a0-a878-56ca4679e7ca.png?width=600&height=600' title="me"/>
       </div>
     </div>
   )
