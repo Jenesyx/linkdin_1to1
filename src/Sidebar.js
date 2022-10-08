@@ -11,7 +11,6 @@ function Sidebar() {
     </div>
   )
 
-
   return (
     <div className='sidebar'>
       <div className='sidebar__top'>
