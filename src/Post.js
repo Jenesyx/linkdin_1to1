@@ -29,7 +29,7 @@ function Post({name, desc, message, photoUrl}) {
             <InputOption Icon={ShareOutlinedIcon} title='Like' color='gray'/>
             <InputOption Icon={SendOutlinedIcon} title='Like' color='gray'/>
         </div>
-
+        
     </div>
   )
 }
